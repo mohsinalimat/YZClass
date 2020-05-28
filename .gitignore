@@ -35,3 +35,11 @@ Carthage/Build
 # `pod install` in .travis.yml
 #
 # Pods/
+
+/Example/YZClass.xcodeproj/project.xcworkspace
+/Example/YZClass.xcodeproj/xcuserdata
+/Example/YZClass.xcodeproj/project.xcworkspace/xcuserdata
+/Example/YZClass.xcodeproj/project.xcworkspace//Example/YZClass.xcworkspace
+/Example/YZClass.xcworkspace/contents.xcworkspacedata
+/Example/YZClass.xcworkspace/xcuserdata
+/Example/YZClass.xcworkspace
