@@ -1,0 +1,6 @@
+framework module YZClass {
+  umbrella header "YZClass-umbrella.h"
+
+  export *
+  module * { export * }
+}

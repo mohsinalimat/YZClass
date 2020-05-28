@@ -1,0 +1,28 @@
+PODS:
+  - PhoneNumberKit (3.2.0):
+    - PhoneNumberKit/PhoneNumberKitCore (= 3.2.0)
+    - PhoneNumberKit/UIKit (= 3.2.0)
+  - PhoneNumberKit/PhoneNumberKitCore (3.2.0)
+  - PhoneNumberKit/UIKit (3.2.0):
+    - PhoneNumberKit/PhoneNumberKitCore
+  - YZClass (0.1.0):
+    - PhoneNumberKit
+
+DEPENDENCIES:
+  - YZClass (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - PhoneNumberKit
+
+EXTERNAL SOURCES:
+  YZClass:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  PhoneNumberKit: df411d46177d1492da84e10b6c093846dd861452
+  YZClass: 9638d9eaae9dbddef72404bf41ae8864b96da097
+
+PODFILE CHECKSUM: 2329681435b33acb2bba240c4d56e70885119e34
+
+COCOAPODS: 1.9.2
